@@ -82,7 +82,7 @@ namespace Programming
                     MessageBox.Show("Подвороты самое то");
                     break;
                 case Season.Summer:
-                    MessageBox.Show("Черная одежда заебись");
+                    MessageBox.Show("Хуёво");
                     break;
                 case Season.Fall:
                     BackColor = Color.Orange;
@@ -92,7 +92,5 @@ namespace Programming
                     break;
             }
         }
-
-       
     }
 }
