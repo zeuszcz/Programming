@@ -1,0 +1,12 @@
+C:\Users\Games\source\repos\Programming\Programming\bin\Debug\Programming.exe.config
+C:\Users\Games\source\repos\Programming\Programming\bin\Debug\Programming.exe
+C:\Users\Games\source\repos\Programming\Programming\bin\Debug\Programming.pdb
+C:\Users\Games\source\repos\Programming\Programming\obj\Debug\Programming.csproj.AssemblyReference.cache
+C:\Users\Games\source\repos\Programming\Programming\obj\Debug\Programming.csproj.SuggestedBindingRedirects.cache
+C:\Users\Games\source\repos\Programming\Programming\obj\Debug\Programming.Properties.Resources.resources
+C:\Users\Games\source\repos\Programming\Programming\obj\Debug\Programming.csproj.GenerateResource.cache
+C:\Users\Games\source\repos\Programming\Programming\obj\Debug\Programming.csproj.CoreCompileInputs.cache
+C:\Users\Games\source\repos\Programming\Programming\obj\Debug\Programming.exe
+C:\Users\Games\source\repos\Programming\Programming\obj\Debug\Programming.pdb
+C:\Users\Games\source\repos\Programming\Programming\obj\Debug\Programming.MainForm.resources
+C:\Users\Games\source\repos\Programming\Programming\obj\Debug\Programming.TabControl.resources
