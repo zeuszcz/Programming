@@ -1,0 +1,14 @@
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\obj\Debug\EstablishmentsApp.csproj.AssemblyReference.cache
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\obj\Debug\EstablishmentsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\obj\Debug\EstablishmentsApp.csproj.GenerateResource.cache
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\obj\Debug\ContactsApp.exe
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\obj\Debug\ContactsApp.pdb
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\obj\Debug\ContactsApp.Properties.Resources.resources
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\obj\Debug\EstablishmentsApp.csproj.CoreCompileInputs.cache
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\obj\Debug\EstablishmentsApp.View.MainForm.resources
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\bin\Debug\ContactsApp.exe.config
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\bin\Debug\ContactsApp.exe
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\bin\Debug\ContactsApp.pdb
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Games\Desktop\ProgrammingDemo-develop\ContactsApp\obj\Debug\EstablishmentsApp.csproj.CopyComplete
